@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dig", "Dig.csproj", "{7D0E2B97-EA71-4810-DF3C-1874FAA7C3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dig.Editor", "Dig.Editor.csproj", "{D728C01D-614E-8FC4-B1D8-5D24741DC09C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0E2B97-EA71-4810-DF3C-1874FAA7C3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0E2B97-EA71-4810-DF3C-1874FAA7C3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0E2B97-EA71-4810-DF3C-1874FAA7C3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0E2B97-EA71-4810-DF3C-1874FAA7C3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D728C01D-614E-8FC4-B1D8-5D24741DC09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D728C01D-614E-8FC4-B1D8-5D24741DC09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D728C01D-614E-8FC4-B1D8-5D24741DC09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D728C01D-614E-8FC4-B1D8-5D24741DC09C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

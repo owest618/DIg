@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 92efd86cb38269d4699e59987c19ae2e
+timeCreated: 1496676225
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dart: {fileID: 1267329393088066, guid: dcd0e6a65c604dd44a1fd5a8444f1214, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
